@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 
 import MenuItem from '@material-ui/core/MenuItem';
 import Select from '@material-ui/core/Select';
@@ -56,7 +55,7 @@ class Homepage extends Component {
 
 	render() {
 		let {selectedNumber, selectedNumbers, openDialog} = this.state;
-		let imgUrl = "https://images.pexels.com/photos/1766478/pexels-photo-1766478.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500";
+
 		return (
 			<div className="homepage-container">
 				<div className="label">Select a Number</div>
