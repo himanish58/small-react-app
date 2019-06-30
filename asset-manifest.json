@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/small-react-app/static/css/main.bbb24b61.chunk.css",
+    "main.js": "/small-react-app/static/js/main.d0dde5e3.chunk.js",
+    "main.js.map": "/small-react-app/static/js/main.d0dde5e3.chunk.js.map",
+    "runtime~main.js": "/small-react-app/static/js/runtime~main.2bbd02d3.js",
+    "runtime~main.js.map": "/small-react-app/static/js/runtime~main.2bbd02d3.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/small-react-app/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.f15307fe.chunk.js": "/small-react-app/static/js/2.f15307fe.chunk.js",
+    "static/js/2.f15307fe.chunk.js.map": "/small-react-app/static/js/2.f15307fe.chunk.js.map",
+    "index.html": "/small-react-app/index.html",
+    "precache-manifest.8dab69f75839e3eef0d242af943ef578.js": "/small-react-app/precache-manifest.8dab69f75839e3eef0d242af943ef578.js",
+    "service-worker.js": "/small-react-app/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/small-react-app/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.bbb24b61.chunk.css.map": "/small-react-app/static/css/main.bbb24b61.chunk.css.map"
+  }
+}
